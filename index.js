@@ -1,4 +1,4 @@
 function addition (a , b) {
-return a - b ; // ERREUR INTENTIONNELLE
+return a + b ;
 }
 module . exports = addition ;
